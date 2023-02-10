@@ -1,0 +1,21 @@
+ray,40, 230,red
+ray,40, rr,red
+pride,20,30000,white
+sonota,40,5000, black
+k5,70,1000,green
+ray2,40,230,red
+pride2,20,30000,white
+sonota2,40,5000,black
+k52,70,1000,green
+ray3,40,230,red
+pride3,20,30000,white
+sonota3,40,5000,black
+k53,70,1000,green
+ray4,40,230,red
+pride4,20,30000,white
+sonota4,40,5000,black
+k54,70,1000,green
+ray5,40,230,red
+pride5,20,30000,white
+sonota5,40,5000,black
+k55,70,1000,green

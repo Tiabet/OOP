@@ -1,0 +1,15 @@
+/**
+ *
+ * @author Sky
+ */
+public class UnfairCoin extends Coin {
+    private double HeadProb;
+    public UnfairCoin(double inputHeadProb) {
+        //Add your logic
+    }
+   
+    public void flip () {
+        //Add your logic
+   }
+    
+}
